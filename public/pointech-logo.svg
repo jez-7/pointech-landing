@@ -1,0 +1,20 @@
+<svg width="300" height="100" viewBox="0 0 300 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="100" fill="#000000"/>
+  
+  <!-- Pointech Text -->
+  <text x="25" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">
+    Pointech
+  </text>
+  
+  <!-- Icon/Symbol -->
+  <circle cx="200" cy="30" r="8" fill="white"/>
+  <rect x="196" y="26" width="8" height="8" fill="#000000"/>
+  <text x="202" y="34" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">
+    T
+  </text>
+  
+  <!-- Tagline -->
+  <text x="25" y="70" font-family="Arial, sans-serif" font-size="14" fill="white">
+    Soluciones Tecnológicas a tu Alcance
+  </text>
+</svg>
