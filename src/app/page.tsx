@@ -55,7 +55,7 @@ export default function Home() {
         service: '',
         message: ''
       })
-    } catch (error) {
+    } catch {
       setSubmitMessage('Error al enviar el mensaje. Por favor intenta de nuevo.')
     } finally {
       setIsSubmitting(false)
